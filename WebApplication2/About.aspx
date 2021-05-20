@@ -4,5 +4,5 @@
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
 
-    <p>master-2.</p>
+    <p>master-2-A.</p>
 </asp:Content>
