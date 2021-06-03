@@ -4,5 +4,5 @@
     <h2><%: Title %>.</h2>
     <h3>Your application description page.</h3>
 
-    <asp:Label ID="abcLabel_" runat="server" Text="set me"></asp:Label>
+    <asp:Label ID="abcLabel" runat="server" Text="set me"></asp:Label>
 </asp:Content>
